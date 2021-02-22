@@ -8,7 +8,7 @@
 
 Build your circuit according to this schematic:
 
-![]()
+![](https://github.com/WHS-Robotics-Classes/Conditionals_II/blob/main/Analog_Input_Control.PNG?raw=true)
 
 ### Step Two: Break down the process
 
