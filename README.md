@@ -19,7 +19,7 @@ The best way to handle a comples task is to break it into parts:
 
 ### Step Three: Put the Code Together
 
-Your prototype should change the color of the LED as you turn the potentiometer.  It shoudl cycle through the colors of the rainbow (ROYGBIV) in order as it does.
+Your prototype should change the color of the LED as you turn the potentiometer.  It needs to cycle through the colors of the rainbow (ROYGBIV) in order as it does.
 
 Use the video below as a reference.
 
