@@ -1,4 +1,4 @@
-# Arduino 3.6 - Conditionals II
+# Arduino 3.7 - Conditionals II
 ## For our final programming assignment you will use an analog sensor to control output with conditionals. 
 
 ### This assignment will use the concepst learned using `analogRead()` and control of the RGB LED from previous assignments.  The conditionals `if()`, `else if()` and `else` will be needed to solve this problem.
