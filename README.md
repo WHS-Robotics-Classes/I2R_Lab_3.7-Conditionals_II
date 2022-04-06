@@ -1,7 +1,7 @@
 # Arduino 3.7 - Conditionals II
-## For our final programming assignment you will use an analog sensor to control output with conditionals. 
+## For this programming assignment you will use an analog sensor to control output with conditionals. 
 
-### This assignment will use the concepst learned using `analogRead()` and control of the RGB LED from previous assignments.  The conditionals `if()`, `else if()` and `else` will be needed to solve this problem.
+### This assignment will use the concepts learned using `analogRead()` and control of the RGB LED from previous assignments.  The conditionals `if()`, `else if()` and `else` will be needed to solve this problem.
 ---
 
 ### Step One: Build the Circuit
@@ -15,7 +15,7 @@ Build your circuit according to this schematic:
 The best way to handle a comples task is to break it into parts:
 1. Make the RGB LED produce the seven colors of the rainbow (Draw on what you did in the previous assignment).
 2. Read the potentiometer with `analogRead()`
-3. Review how to use [`if()`](https://www.arduino.cc/reference/en/language/structure/control-structure/if/) and [`else`](https://www.arduino.cc/reference/en/language/structure/control-structure/else/) on the Arduino Reference.
+3. Review how to use [`if()`](https://www.arduino.cc/reference/en/language/structure/control-structure/if/), and [`else`](https://www.arduino.cc/reference/en/language/structure/control-structure/else/) on the Arduino Reference (else if is a part of these pages).
 
 ### Step Three: Put the Code Together
 
