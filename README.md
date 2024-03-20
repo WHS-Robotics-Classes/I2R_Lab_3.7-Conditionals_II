@@ -19,12 +19,4 @@ The best way to handle a comples task is to break it into parts:
 
 ### Step Three: Put the Code Together
 
-Your prototype should change the color of the LED as you turn the potentiometer.  It needs to cycle through the colors of the rainbow (ROYGBIV) in order as it does.
-
-Use the video below as a reference.
-
-### Step Four: Debug and Submit
-
-[![3.6_Video](http://img.youtube.com/vi/T9klXaB8NdI/0.jpg)](https://www.youtube.com/watch?v=T9klXaB8NdI "3.6-Conditionals I")
-
-Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.7_Analog_Input_Control.ino and Commit it to the repository.
+Make sure your prototype behaves correctly. As in the previous assignment, make a new file here on GitHub. Name it 3.7_Conditionals_II.ino and Commit it to the repository. You will just show your working system in class instead of submitting a video.
